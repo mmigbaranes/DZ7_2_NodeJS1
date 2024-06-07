@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "afterDelay",
+          "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true
+        },
+        "[javascript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "eslint.validate": [
+          "javascript"
+        ],
+        "editor.formatOnSave": true
+       }
